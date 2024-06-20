@@ -18,7 +18,7 @@ To get started with this project, follow the steps below:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/ingrid-ro/poc-cypress.git
+   git clone https://github.com/ingrid-ro/poc-cypress-pet.git
    cd poc-cypress
 
 2. **Install dependencies:**
@@ -58,7 +58,7 @@ Para utilizar este projeto pela primeira vez, siga os passos abaixo:
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/ingrid-ro/poc-cypress.git
+   git clone https://github.com/ingrid-ro/poc-cypress-pet.git
    cd poc-cypress
 
 2. **Instale as dependências:**
