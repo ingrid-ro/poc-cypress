@@ -1,4 +1,4 @@
-# Cypress Automation - Proof of Concept (POC)
+# Cypress Automation - POC Petstore API
 
 ## About Me
 
@@ -38,7 +38,7 @@ The endpoint automated in this POC is the pet addition endpoint of the Petstore 
 - Documentation: [Swagger Petstore](https://petstore.swagger.io/#/pet/addPet)
 
 ------------------------------------------------------------------------------
-# Automação com Cypress - POC
+# Automação com Cypress - POC Petstore API
 
 ## Sobre Mim
 
