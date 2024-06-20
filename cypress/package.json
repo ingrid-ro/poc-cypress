@@ -1,0 +1,29 @@
+{
+  "name": "qa-cypress-template",
+  "version": "1.0.0",
+  "description": "QA automated testing template project using Cypress.io",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruthlesshelp/qa-cypress-template.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "cypress": "cypress open"
+  },
+  "author": "Ingrid G",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "cypress": "^3.4.1"
+  },
+
+  "scripts": {
+  "test": "cypress run",
+  "test:chrome": "cypress run --browser chrome",
+  "test:opera": "cypress run --browser opera",
+  "test:headless": "cypress run --headless",
+  "test:record": "cypress run --record",
+  "test:ci": "cypress run --record --parallel",
+  "open": "cypress open"
+}
+
+}
